@@ -32,9 +32,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" />
 </p>
 
-<h2>📂 Featured Projects</h2>
-<ul>
-<li><a href="#">arbtrvl.com</a> — Travel/tourism website (design, content, and support)</li>
-<li><a href="#">Noor Al-Ula Tourism Project</a> — Built and customized for a tourism client</li>
-</ul>
+
 
