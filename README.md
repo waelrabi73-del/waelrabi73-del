@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="#">Your Name</a></h2>
+<h2>Hey 👋, I'm <a href="#">WAEL RABI</a></h2>
 <p>I'm a <strong>WordPress Support Specialist & Junior Web Developer</strong> 🌐. I build and customize websites with WordPress (Elementor & block editor), support clients with day-to-day site issues, and enjoy turning HTML/CSS/JS designs into live, working pages.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&labelColor=21759B&logo=WordPress&logoColor=white" alt="WordPress Badge"></a>
