@@ -38,4 +38,3 @@
 <li><a href="#">Noor Al-Ula Tourism Project</a> — Built and customized for a tourism client</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" alt="profile stats" />
